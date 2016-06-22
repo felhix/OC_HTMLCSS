@@ -1,0 +1,20 @@
+h1, h2
+{
+	color: red; /* Commentaire */
+	font-weight: bold;
+	background-color: red
+	
+}
+
+.intro
+{
+	color: #EB685B;
+	font-style: italic;
+
+}
+
+p
+{
+	text-align: center;
+
+}
